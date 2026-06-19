@@ -21,7 +21,7 @@ def registrar_pokemon():
         if nombre == "":
             print("Error: El nombre no puede estar vacio.")
             continue
-        if any(p["nombre"] == nombre for p in pokedex):
+        if any(p["nombre"] == nombre for p in pokedex):  #Verifica si el nombre del pokemon ya existe en la pokedex para evitar duplicados
             print(f"Error: {nombre} ya esta registrado.")
         else:
             break
