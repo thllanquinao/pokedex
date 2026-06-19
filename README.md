@@ -1,6 +1,6 @@
 sistema de registro en pokedex
 
-Este es un programa interactivo desarrollado en Python que permite administrar el inventario de una biblioteca mediante una estructura CRUD (Crear, Leer, Actualizar, Eliminar)
+Este es un programa interactivo desarrollado en Python que permite administrar el contenido de una pokedex mediante una estructura CRUD (Crear, Leer, Actualizar, Eliminar)
 
 Funcionalidades
 
